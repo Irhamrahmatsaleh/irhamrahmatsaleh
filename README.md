@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at . . .
 
-- 📝 I regularly write articles on 
+- 📝 I regularly write articles on . . .
 
 - 💬 Ask me about **Jakarta EE, JSP, servlet and etc.**
 
