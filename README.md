@@ -18,15 +18,15 @@
 
 - 🤝 I’m looking for help with [Bootcamp]
 
-- 👨‍💻 All of my projects are available at [https://github.com/Irhamsaleh](https://github.com/Irhamsaleh)
+- 👨‍💻 All of my projects are available at 
 
-- 📝 I regularly write articles on [https://www.spiceworks.com/tech/devops/articles/top-articles-on-programming/](https://www.spiceworks.com/tech/devops/articles/top-articles-on-programming/)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **Jakarta EE, JSP, react, vite, vue, NextJs and etc.**
 
 - 📫 How to reach me **irhamsaleh904@gmail.com**
 
-- 📄 Know about my experiences [irhamrahmatsaleh.netlify.app]
+- 📄 Know about my experiences **irhamrahmatsaleh.netlify.app**
 
 - ⚡ Fun fact **I think I am multi-talented, honest, friendly and intelligent**
 
