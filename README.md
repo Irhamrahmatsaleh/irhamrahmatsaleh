@@ -37,7 +37,7 @@
 <a href="https://stackoverflow.com/users/irham-saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irham-saleh" height="30" width="40" /></a>
 <a href="https://fb.com/irham.s4leh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irham.s4leh" height="30" width="40" /></a>
 <a href="https://instagram.com/irhamsaleh904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irhamsaleh904" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@irhamsaleh461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@irhamsaleh461" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@irhamsaleh461" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@irhamsaleh461" height="30" width="40" /></a>
 <a href="https://discord.gg/kpb5BtG5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kpb5BtG5" height="30" width="40" /></a>
 </p>
 
