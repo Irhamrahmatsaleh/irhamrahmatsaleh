@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/richirham" target="blank"><img src="https://img.shields.io/twitter/follow/richirham?logo=twitter&style=for-the-badge" alt="richirham" /></a> </p>
 
-- 🔭 I’m currently working on [English Course]
+- 🔭 I’m currently working on [https://sorayahenglishcourse.netlify.app]
 
 - 🌱 I’m currently learning **Tailwind, Bootstrap, Angular, and Go**
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **irhamsaleh904@gmail.com**
 
-- 📄 Know about my experiences <a href="https//irhamrahmatsaleh.netlify.app><a>
+- 📄 Know about my experiences [https://irhamrahmatsaleh.netlify.app] IRHAM
 
 - ⚡ Fun fact **I think I am multi-talented, honest, friendly and intelligent**
 
