@@ -14,19 +14,19 @@
 
 - 🌱 I’m currently learning **Tailwind, Bootstrap, Angular, and Go**
 
-- 👯 I’m looking to collaborate on [My Portofolio]
+- 👯 I’m looking to collaborate on . . .
 
-- 🤝 I’m looking for help with [Bootcamp]
+- 🤝 I’m looking for help with . . .
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at . . .
 
 - 📝 I regularly write articles on 
 
-- 💬 Ask me about **Jakarta EE, JSP, react, vite, vue, NextJs and etc.**
+- 💬 Ask me about **Jakarta EE, JSP, servlet and etc.**
 
 - 📫 How to reach me **irhamsaleh904@gmail.com**
 
-- 📄 Know about my experiences [https://irhamrahmatsaleh.netlify.app] IRHAM
+- 📄 Know about my experiences [https://irhamrahmatsaleh.netlify.app]
 
 - ⚡ Fun fact **I think I am multi-talented, honest, friendly and intelligent**
 
