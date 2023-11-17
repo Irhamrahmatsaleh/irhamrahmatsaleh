@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/richirham" target="blank"><img src="https://img.shields.io/twitter/follow/richirham?logo=twitter&style=for-the-badge" alt="richirham" /></a> </p>
 
-- 🔭 I’m currently working on [English Course](Sorayahenglishcourse.netlify.app)
+- 🔭 I’m currently working on [English Course]
 
 - 🌱 I’m currently learning **Tailwind, Bootstrap, Angular, and Go**
 
-- 👯 I’m looking to collaborate on [My Portofolio](Irhamrahmatsaleh.netlify.app)
+- 👯 I’m looking to collaborate on [My Portofolio]
 
-- 🤝 I’m looking for help with [Bootcamp](Dumbways.id)
+- 🤝 I’m looking for help with [Bootcamp]
 
 - 👨‍💻 All of my projects are available at [https://github.com/Irhamsaleh](https://github.com/Irhamsaleh)
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **irhamsaleh904@gmail.com**
 
-- 📄 Know about my experiences [irhamrahmatsaleh.netlify.app](irhamrahmatsaleh.netlify.app)
+- 📄 Know about my experiences [irhamrahmatsaleh.netlify.app]
 
 - ⚡ Fun fact **I think I am multi-talented, honest, friendly and intelligent**
 
