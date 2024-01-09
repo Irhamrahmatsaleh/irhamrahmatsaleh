@@ -36,7 +36,7 @@
 <a href="https://stackoverflow.com/users/22911324/irham-saleh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irham-saleh" height="30" width="40" /></a>
 <a href="https://fb.com/irham.s4leh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irham.s4leh" height="30" width="40" /></a>
 <a href="https://instagram.com/irhamsaleh904" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irhamsaleh904" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@irhamsaleh461" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@irhamsaleh461" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC61Qwa-yjNgTzP2gMVrX72g" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@irhamsaleh461" height="30" width="40" /></a>
 <a href="https://discord.com/channels/1142756495948271748/1142756497244295292" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kpb5BtG5" height="30" width="40" /></a>
 </p>
 
