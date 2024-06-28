@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [CRYPTO](https://crypto.com)
 
-- 🤝 I’m looking for help with [Silent Slayer](https://www.meta.com/en-gb/experiences/5353670608005479/?utm_source=google&utm_medium=paidsearch&utm_campaign=ssvvpaid&utm_id=silentslayer&utm_term=summer&utm_content=search&gad_source=1&gclid=CjwKCAjwvvmzBhA2EiwAtHVrb4C8_rbG-8YxEujweY2Gbod9_a-RwXXLIY-pMeTUw4ZBOVt0W866shoC820QAvD_BwE)
+- 🤝 I’m looking for help with [Alphabet](https://abc.xyz/)
 
 - 👨‍💻 All of my projects are available at [https://irhamrahmatsaleh.netlify.app/](https://irhamrahmatsaleh.netlify.app/)
 
