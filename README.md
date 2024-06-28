@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm IRHAM RAHMAT SALEH</h1>
 <h3 align="center">A passionate Software Engineer & Full-stack Developer from Indonesia</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irhamrahmatsaleh&label=Profile%20views&color=0e75b6&style=flat" alt="irhamrahmatsaleh" /> </p>
 
 - 🔭 I’m currently working on IRHAM MEDIA [IRHAM MEDIA](https://cute-phoenix-f1aa5d.netlify.app/)
