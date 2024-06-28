@@ -1,4 +1,4 @@
-![logo](https://github.com/Irhamsaleh/Irhamsaleh/blob/main/Contact.png)
+
 <h1 align="center">Hi 👋, I'm Irham Saleh</h1>
 <h3 align="center">A passionate Software Engineer and data scientist From Indonesia</h3>
 
