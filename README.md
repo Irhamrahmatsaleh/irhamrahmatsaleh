@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm IRHAM RAHMAT SALEH</h1>
-<h3 align="center">A passionate Software Engineer & Full-stack Developer from India</h3>
+<h3 align="center">A passionate Software Engineer & Full-stack Developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irhamrahmatsaleh&label=Profile%20views&color=0e75b6&style=flat" alt="irhamrahmatsaleh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irhamrahmatsaleh" alt="irhamrahmatsaleh" /></a> </p>
 
 - 🔭 I’m currently working on IRHAM MEDIA [IRHAM MEDIA](https://cute-phoenix-f1aa5d.netlify.app/)
 
@@ -28,11 +26,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@richirham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@richirham" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/irham-rahmat-saleh-a03153169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irham-rahmat-saleh-a03153169/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22911324/irham-saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22911324/irham-saleh" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/irham.s4leh/about_contact_and_basic_info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/irham.s4leh/about_contact_and_basic_info" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/irhamsaleh904/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/irhamsaleh904/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc61qwa-yjngtzp2gmvrx72g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc61qwa-yjngtzp2gmvrx72g" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/irham-rahmat-saleh-a03153169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irham-rahmat-saleh-a03153169/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/irham-saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="irham-saleh" height="30" width="40" /></a>
+<a href="https://fb.com/irham.s4leh/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irham.s4leh/about" height="30" width="40" /></a>
+<a href="https://instagram.com/irhamsaleh904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irhamsaleh904" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bytefaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bytefaster" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
