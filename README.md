@@ -30,7 +30,7 @@
 <a href="https://stackoverflow.com/users/22911324/irham-saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22911324/irham-saleh" height="30" width="40" /></a>
 <a href="https://fb.com/irham.s4leh/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irham.s4leh/about" height="30" width="40" /></a>
 <a href="https://instagram.com/irhamsaleh904" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irhamsaleh904" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@bytefaster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bytefaster" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC61Qwa-yjNgTzP2gMVrX72g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bytefaster" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
