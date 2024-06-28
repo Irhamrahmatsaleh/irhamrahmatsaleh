@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irhamrahmatsaleh&label=Profile%20views&color=0e75b6&style=flat" alt="irhamrahmatsaleh" /> </p>
 
-- 🔭 I’m currently working on IRHAM MEDIA [IRHAM MEDIA](https://cute-phoenix-f1aa5d.netlify.app/)
+- 🔭 I’m currently working on [IRHAM MEDIA](https://cute-phoenix-f1aa5d.netlify.app/)
 
 - 🌱 I’m currently learning **JAVA, PYTHON & C++**
 
