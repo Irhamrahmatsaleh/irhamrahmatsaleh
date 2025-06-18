@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on develop [IRHAM MEDIA](https://cute-phoenix-f1aa5d.netlify.app/)
 
-- 🌱 I’m currently learning **JAVA, PYTHON & C++**
+- 🌱 I’m currently learning **BlockChain, AI & Data Science**
 
 - 👯 I’m looking to collaborate on [CRYPTO](https://crypto.com)
 
