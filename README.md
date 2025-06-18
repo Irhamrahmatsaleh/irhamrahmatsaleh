@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Alphabet](https://abc.xyz/)
 
-- 👨‍💻 All of my projects are available at [https://irhamrahmatsaleh.netlify.app/](https://irhamrahmatsaleh.netlify.app/)
+- 👨‍💻 All of my projects are available at [irhamrahmatsaleh](https://b57personalweb-seven.vercel.app/)
 
 - 📝 I regularly write articles on [https://cute-phoenix-f1aa5d.netlify.app/](https://cute-phoenix-f1aa5d.netlify.app/)
 
