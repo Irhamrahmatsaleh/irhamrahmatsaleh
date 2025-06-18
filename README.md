@@ -6,25 +6,30 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irhamrahmatsaleh&label=Profile%20views&color=0e75b6&style=flat" alt="irhamrahmatsaleh" /> </p>
 
-- 🔭 I’m currently working on develop [NEUTRON (NTR)](https://neutron-documentation.netlify.app/)
 
-- 🌱 I’m currently learning **BlockChain, AI & Data Science**
-
-- 👯 I’m looking to collaborate on [CRYPTO](https://crypto.com)
-
-- 🤝 I’m looking for help with [Alphabet](https://abc.xyz/)
-
-- 👨‍💻 All of my projects are available at [irhamrahmatsaleh](https://b57personalweb-seven.vercel.app/)
-
-- 🎬 My media is developed under open-source principles through [Irhammedia](https://cute-phoenix-f1aa5d.netlify.app/)
-
-- 💬 Ask me about **react, vue and angular**
-
-- 📫 How to reach me **irhamrahmatsaleh1997@gmail.com**
-
-- 📄 I still make time to teach English here [ENGISH-COURSE](https://sorayahenglishcourse.netlify.app/)
-
-- ⚡ Fun fact **I have skills such as: Good communication, problem solving skills, good teamwork, fast learning ability, passionate about learning new technologies.**
+- 🔭 I'm currently working on develop
+     [NEUTRON (NTR)](https://neutron-documentation.netlify.app/)
+- 🌱 I'm currently learning **BlockChain, AI & 
+     Data Science**
+- 👯 I'm looking to collaborate on projects with
+     [CRYPTO](https://crypto.com) platform
+- 🤝 I'm looking for help with development at
+     [Alphabet](https://abc.xyz/) ecosystem
+- 👨‍💻 All of my projects are available at
+     [irhamrahmatsaleh](https://b57personalweb-seven.vercel.app/)
+- 🎬 My media is developed under open-source at
+     [Irhammedia](https://cute-phoenix-f1aa5d.netlify.app/)
+- 💬 Ask me about **React, Vue.js, and Angular
+     development best practices**
+- 📫 How to reach me:
+     **irhamrahmatsaleh1997@gmail.com**
+- 📄 I still make time to teach English here at
+     [ENGLISH-COURSE](https://sorayahenglishcourse.netlify.app/)
+- ⚡ Fun fact: **I possess comprehensive professional skills including
+     excellent communication abilities, advanced problem-solving 
+     expertise, collaborative teamwork experience, rapid learning 
+     adaptability, and genuine passion for emerging technologies.**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
