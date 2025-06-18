@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [irhamrahmatsaleh](https://b57personalweb-seven.vercel.app/)
 
-- 📝 I regularly write articles on [https://cute-phoenix-f1aa5d.netlify.app/](https://cute-phoenix-f1aa5d.netlify.app/)
+- 📝 My media is created in open code [Irham Media](https://cute-phoenix-f1aa5d.netlify.app/)
 
 - 💬 Ask me about **react, vue and angular**
 
