@@ -19,7 +19,7 @@
      [irhamrahmatsaleh](https://b57personalweb-seven.vercel.app/)
 - 🎬 My media is developed under open-source at
      [Irhammedia](https://cute-phoenix-f1aa5d.netlify.app/)
-- 💬 Ask me about **React, Vue.js, and Angular
+- 💬 Ask me about **React, Vue.js, and
      development best practices**
 - 📫 How to reach me:
      **irhamrahmatsaleh1997@gmail.com**
