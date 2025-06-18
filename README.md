@@ -16,13 +16,13 @@
 
 - 👨‍💻 All of my projects are available at [irhamrahmatsaleh](https://b57personalweb-seven.vercel.app/)
 
-- 📝 My media is created in open code [Irham Media](https://cute-phoenix-f1aa5d.netlify.app/)
+- 🎬 My media is created in open code [Irhammedia](https://cute-phoenix-f1aa5d.netlify.app/)
 
 - 💬 Ask me about **react, vue and angular**
 
 - 📫 How to reach me **irhamrahmatsaleh1997@gmail.com**
 
-- 📄 Know about my experiences [https://irhamrahmatsaleh.netlify.app/](https://irhamrahmatsaleh.netlify.app/)
+- 📄 I still make time to teach English here [ENGISH-COURSE](https://sorayahenglishcourse.netlify.app/)
 
 - ⚡ Fun fact **I have skills such as: Good communication, problem solving skills, good teamwork, fast learning ability, passionate about learning new technologies.**
 
