@@ -24,7 +24,7 @@
 - 📫 How to reach me:
      **irhamrahmatsaleh1997@gmail.com**
 - 📄 I still make time to teach English here at
-     [ENGLISH-COURSE](https://sorayahenglishcourse.netlify.app/)
+     [ENGLISH-COURSE](https://sec.vercel.app/)
 - ⚡ Fun fact: **I possess comprehensive professional skills including
      excellent communication abilities, advanced problem-solving 
      expertise, collaborative teamwork experience, rapid learning 
